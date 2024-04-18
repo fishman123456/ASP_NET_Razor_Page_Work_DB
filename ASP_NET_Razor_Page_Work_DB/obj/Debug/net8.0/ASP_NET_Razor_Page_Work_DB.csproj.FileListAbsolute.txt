@@ -117,6 +117,7 @@ D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0
 D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\ASP_NET_Razor_Page_Work_DB.MvcApplicationPartsAssemblyInfo.cache
 D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\ASP_NET_Razor_Page_Work_DB.RazorAssemblyInfo.cache
 D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\ASP_NET_Razor_Page_Work_DB.RazorAssemblyInfo.cs
+D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\ASP_NET_Razor_Page_Work_DB.sourcelink.json
 D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\staticwebassets.build.json
 D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\staticwebassets.development.json
 D:\Github\ASP_NET_Razor_Page_Work_DB\ASP_NET_Razor_Page_Work_DB\obj\Debug\net8.0\staticwebassets\msbuild.ASP_NET_Razor_Page_Work_DB.Microsoft.AspNetCore.StaticWebAssets.props

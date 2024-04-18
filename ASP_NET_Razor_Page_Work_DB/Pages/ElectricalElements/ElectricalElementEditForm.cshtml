@@ -1,4 +1,40 @@
 ﻿@page
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
 @model ASP_NET_Razor_Page_Work_DB.Pages.ElectricalElements.ElectricalElementEditFormModel
 @{
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Electrical Elements List</title>
+</head>
+<body>
+    <h1>Edit element</h1>
+    <!--форма добавлениянового элемента-->
+    <form method="post">
+        <label for="Id">ID:</label>
+        <input id="id" name="id" type="number" readonly required value="@Model.ElectricalElement.Id" />
+        <!--Имя кабеля-->
+        <label for="cableName">Имя кабеля: </label>
+        <input id="CableName" name="CableName" type="text" minlenght="1" required value="@Model.ElectricalElement.CableName_f" />
+        <!--начало кабеля-->
+        <label for="cableStart">Источник: </label>
+        <input id="CableStart" name="CableStart" type="text" minlenght="1" required value="@Model.ElectricalElement.CableStart_f" />
+        <!--конец кабеля-->
+        <label for="cableEnd">Приемник: </label>
+        <input id="CableEnd" name="CableEnd" type="text" minlenght="1" required value="@Model.ElectricalElement.CableEnd_f" />        
+        <!--Труба кабеля-->
+        <label for="cableFans">Проложен через трубу D: </label>
+        <input id="CableFans" name="CableFans" type="text" minlenght="1" required value="@Model.ElectricalElement.CableFans_f" />        
+        <!--Примечание кабеля-->
+        <label for="cableDescr">Примечание: </label>
+        <input id="CableDescr" name="CableDescr" type="text" minlenght="1" required value="@Model.ElectricalElement.CableDescr_f" />
+        <!-- https://livebook.manning.com/book/asp-net-core-razor-pages-in-action/chapter-6/v-8/53-->
+        <!--кнопка отправки формы-->
+        <button>save</button>
+    </form>
+    <p> <a asp-page="ElectricalElementsList"> go ElectricalElementsList</a></p>
+</body>
