@@ -1,0 +1,74 @@
+﻿@page
+@using ASP_NET_Razor_Page_Work_DB.Model
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model ASP_NET_Razor_Page_Work_DB.Pages.ElectricalElements.ElectricalElementsListModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chemical Elements List</title>
+    <style>
+        .element-table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+            .element-table th, .element-table td {
+                border: 1px solid black;
+                padding: 10px;
+                text-align: center;
+            }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Chemical Elements List</h1>
+    <p><a asp-page="ChemicalElementsForm">Add new chemical element</a></p>
+    <table class="element-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Номер</th>
+                <th>Имя блока</th>
+                <th>Имя кабеля</th>
+                <th>Источник</th>
+                <th>Приемник</th>
+                <th>Труба</th>
+                <th>Примечание</th>
+                <th>Координата X</th>
+                <th>Координата Y</th>
+                <th>Координата Z</th>
+                <th>Имя слоя</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (ElectricalElement element in Model.ElectricalElements)
+            {
+                <tr>
+                    <td>@element.Id</td>
+                    <td>@element.Handl_f</td>
+                    <td>@element.BlockName_f</td>
+                    <td>@element.CableName_f</td>
+                    <td>@element.CableStart_f</td>
+                    <td>@element.CableEnd_f</td>
+                    <td>@element.CableFans_f</td>
+                    <td>@element.CableDescr_f</td>
+                    <td>@element.BlockX_f</td>
+                    <td>@element.BlockY_f</td>
+                    <td>@element.BlockZ_f</td>
+                    <td>@element.LayerName_f</td>
+                    <td>
+                        <a asp-page="ElectricalElementDelete" asp-route-id="@element.Id">Delete</a>
+                        <a asp-page="ElectricalElementEditForm" asp-route-id="@element.Id">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
