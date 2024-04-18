@@ -114,8 +114,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Help_migrations.txt",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-18T17:44:20.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:44:20.858Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T17:43:09.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:43:09.435Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T16:42:00.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T16:42:00.558Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:59:08.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T15:59:08.852Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T16:08:45.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T16:08:45.698Z"
             },
             {
               "$type": "Document",
@@ -192,8 +187,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T16:37:43.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T16:37:43.016Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementsList.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T17:13:48.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:13:48.022Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T17:01:29.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:01:29.556Z"
             },
             {
               "$type": "Document",
@@ -231,8 +223,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T17:29:13.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:29:13.517Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementDelete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T17:06:24.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:06:24.215Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T17:07:04.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:07:04.872Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementsForm.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T17:07:48.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:07:48.347Z"
             }
           ]
         }
