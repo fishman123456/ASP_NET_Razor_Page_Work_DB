@@ -16,22 +16,28 @@
     <!--форма добавления нового элемента-->
     <form method="post">
         <label for="Id">ID:</label>
-        <input id="id" name="id" type="number" readonly required  />
+        <input id="id" name="Id" type="number" readonly required value="@Model.ElectricalElement.Id" />
+        <!--Номер блока-->
+        <label for="blockNum">Номер блока: </label>
+        <input id="BlockNum" name="Handl_f" type="text" minlenght="1" required value="@Model.ElectricalElement.Handl_f" />
+        <!--Имя блока-->
+        <label for="blockName">Имя блока: </label>
+        <input id="BlockName" name="BlockName_f" type="text" minlenght="1" required value="@Model.ElectricalElement.BlockName_f" />
         <!--Имя кабеля-->
         <label for="cableName">Имя кабеля: </label>
-        <input id="CableName" name="CableName" type="text" minlenght="1" required value="@Model.ElectricalElement.CableName_f" />
-        @* <!--начало кабеля-->
+        <input id="CableName" name="CableName_f" type="text" minlenght="1" required value="@Model.ElectricalElement.CableName_f" />
+        <!--начало кабеля-->
         <label for="cableStart">Источник: </label>
-        <input id="CableStart" name="CableStart" type="text" minlenght="1" required  />
+        <input id="CableStart" name="CableStart_f" type="text" minlenght="1" required value="@Model.ElectricalElement.CableStart_f" />
         <!--конец кабеля-->
         <label for="cableEnd">Приемник: </label>
-        <input id="CableEnd" name="CableEnd" type="text" minlenght="1" required  /> *@
+        <input id="CableEnd" name="CableEnd_f" type="text" minlenght="1" required value="@Model.ElectricalElement.CableEnd_f" />
         <!--Труба кабеля-->
         <label for="cableFans">Проложен через трубу D: </label>
-        <input id="CableFans" name="CableFans" type="text" minlenght="1" required  />
+        <input id="CableFans" name="CableFans_f" type="text" minlenght="1" required value="@Model.ElectricalElement.CableFans_f" />
         <!--Примечание кабеля-->
         <label for="cableDescr">Примечание: </label>
-        <input id="CableDescr" name="CableDescr" type="text" minlenght="1" required value="@Model.ElectricalElement.CableDescr_f" />
+        <input id="CableDescr" name="CableDescr_f" type="text" minlenght="1" required value="@Model.ElectricalElement.CableDescr_f" />
         <!-- https://livebook.manning.com/book/asp-net-core-razor-pages-in-action/chapter-6/v-8/53-->
         <!--кнопка отправки формы-->
         <button>save</button>

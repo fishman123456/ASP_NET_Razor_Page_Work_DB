@@ -40,7 +40,6 @@ namespace ASP_NET_Razor_Page_Work_DB.Pages.ElectricalElements
             update.Handl_f = ElectricalElement.Handl_f;
             update.BlockName_f=ElectricalElement.BlockName_f;
             update.CableName_f = ElectricalElement.CableName_f;
-            update.CableName_f = ElectricalElement.CableName_f;
             update.CableStart_f = ElectricalElement.CableStart_f;
             update.CableEnd_f = ElectricalElement.CableEnd_f;
             update.CableFans_f = ElectricalElement.CableFans_f;

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\",
+  "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|d:\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementsform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementsform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|d:\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|d:\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\model\\electricalelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\model\\electricalelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\model\\electricalelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +30,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -58,49 +62,49 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ElectricalElementEditForm.cshtml",
-              "DocumentMoniker": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
-              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
-              "ToolTip": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
-              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAACBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T00:49:35.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ElectricalElementsForm.cshtml",
-              "DocumentMoniker": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementsForm.cshtml",
-              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementsForm.cshtml",
-              "ToolTip": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementsForm.cshtml",
-              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementsForm.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAACCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T00:08:19.987Z",
+              "Title": "ElectricalElement.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:55:07.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ElectricalElement.cs",
-              "DocumentMoniker": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
-              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
-              "ToolTip": "D:\\Github\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
-              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAADcAAAA2AAAA",
+              "Title": "ElectricalElementEditForm.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAhwA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:39:20.269Z",
+              "WhenOpened": "2024-04-19T03:27:35.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricalElementEditForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T03:29:15.514Z",
               "EditorCaption": ""
             }
           ]
