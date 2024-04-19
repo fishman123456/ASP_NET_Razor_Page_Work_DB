@@ -19,19 +19,19 @@
         <input id="id" name="id" type="number" readonly required  />
         <!--Имя кабеля-->
         <label for="cableName">Имя кабеля: </label>
-        <input id="CableName" name="CableName" type="text" minlenght="1" required  />
-        <!--начало кабеля-->
+        <input id="CableName" name="CableName" type="text" minlenght="1" required value="@Model.ElectricalElement.CableName_f" />
+        @* <!--начало кабеля-->
         <label for="cableStart">Источник: </label>
         <input id="CableStart" name="CableStart" type="text" minlenght="1" required  />
         <!--конец кабеля-->
         <label for="cableEnd">Приемник: </label>
-        <input id="CableEnd" name="CableEnd" type="text" minlenght="1" required  />
+        <input id="CableEnd" name="CableEnd" type="text" minlenght="1" required  /> *@
         <!--Труба кабеля-->
         <label for="cableFans">Проложен через трубу D: </label>
         <input id="CableFans" name="CableFans" type="text" minlenght="1" required  />
         <!--Примечание кабеля-->
         <label for="cableDescr">Примечание: </label>
-        <input id="CableDescr" name="CableDescr" type="text" minlenght="1" required  />
+        <input id="CableDescr" name="CableDescr" type="text" minlenght="1" required value="@Model.ElectricalElement.CableDescr_f" />
         <!-- https://livebook.manning.com/book/asp-net-core-razor-pages-in-action/chapter-6/v-8/53-->
         <!--кнопка отправки формы-->
         <button>save</button>

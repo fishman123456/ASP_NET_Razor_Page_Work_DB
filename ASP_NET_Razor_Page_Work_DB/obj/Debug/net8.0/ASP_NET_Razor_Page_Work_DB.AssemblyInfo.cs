@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_NET_Razor_Page_Work_DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aaa17348ec86cc2e96a393b6bf5cc382709d02f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+537cd4fcfd67a9ee1022f6cbf440160508d043e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_NET_Razor_Page_Work_DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_NET_Razor_Page_Work_DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
