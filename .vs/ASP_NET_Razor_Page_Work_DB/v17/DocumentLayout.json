@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\model\\electricalelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\model\\electricalelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\model\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\model\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\help_migrations.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\help_migrations.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|solutionrelative:asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6671DC3-5CA0-4524-A4E6-DB42B8BF4361}|ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB.csproj|c:\\users\\fishman\\documents\\github\\asp_net_razor_page_work_db\\asp_net_razor_page_work_db\\pages\\electricalelements\\electricalelementeditform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,19 +99,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:12:15.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Help_migrations.txt",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Help_migrations.txt",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Help_migrations.txt",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Help_migrations.txt",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Help_migrations.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-13T04:56:45.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:52:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\appsettings.json",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T03:49:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T03:49:19.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T03:49:15.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Program.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Program.cs",
+              "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:49:13.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ElectricalElement.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
               "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Model\\ElectricalElement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAiwGEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T03:55:07.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ElectricalElementEditForm.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
               "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
@@ -91,12 +205,11 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAhwA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T03:27:35.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T03:27:35.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ElectricalElementEditForm.cshtml",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\ASP_NET_Razor_Page_Work_DB\\ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
               "RelativeDocumentMoniker": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
@@ -104,8 +217,7 @@
               "RelativeToolTip": "ASP_NET_Razor_Page_Work_DB\\Pages\\ElectricalElements\\ElectricalElementEditForm.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T03:29:15.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T03:29:15.514Z"
             }
           ]
         }
